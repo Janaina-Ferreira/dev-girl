@@ -10,32 +10,32 @@ body{
     min-width: 300px;
     max-width: 1000px;
     margin: auto;
-    margin-bottom: 30px;
+   
    
 }
 header{
   
     align-items: center;
     display: flex;
-    background-color: black;
+    background-color: rgb(0, 0, 0);
 }
 .logo{
-    padding: 10px;
-    margin: 0px 80px;
+    
+   
     height: 200px;
-    width: 350px;
+    width: 550px;
 }
 
 nav{
     display: flex;
     flex-wrap: wrap;
-    margin-left: 30px;
-    padding: 10%;
+    margin-left: 20%;
 }
+   
 
-.bt1{
-  
-    padding: 0px 30px;
+
+a.botao{
+    margin: 10px;
 }
 
 a.botao{
