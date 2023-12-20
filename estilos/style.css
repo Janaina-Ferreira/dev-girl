@@ -25,13 +25,14 @@ header{
 }
 
 h1{
+ text-align: center;
  font-size: 2em;
  color: #390A7B;
 }
 
 .redes{
     max-width: 10%;
-    border-radius: 0px 15px;
+    border-radius: 5px 15px;
 }
 
 
