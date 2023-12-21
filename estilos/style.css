@@ -2,6 +2,7 @@
 
 
 body{
+ 
    
     margin-top: 0px;
     
@@ -29,13 +30,40 @@ h1{
  font-size: 2em;
  color: #390A7B;
 }
-
-.redes{
-    max-width: 10%;
-    border-radius: 5px 15px;
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
 }
 
-
+.redes{
    
+    max-width: 5%;
+    border-radius: 5px 15px;
+   
+  
+}
+.contato{
+    display: inline-block;
+}
+
+.contato>a{
+   
+   
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bolder;
+    
+}
+
+.contato>a:hover{
+   color: rgb(167, 3, 76);
+   
+}
+
+   .inf{
+    font-weight: bolder;
+    color: #390A7B;
+   }
 
 
